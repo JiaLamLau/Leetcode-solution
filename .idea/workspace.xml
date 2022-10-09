@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64dc1049-813d-4d54-895e-fc8c10801bfc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter01/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +32,13 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/liuxu/Leetcode-solution&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="moveZeroes" type="Application" factoryName="Application">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,6 +50,9 @@
       <workItem from="1665027181513" duration="56000" />
       <workItem from="1665027511102" duration="79000" />
       <workItem from="1665032809271" duration="4000" />
+      <workItem from="1665242584050" duration="55000" />
+      <workItem from="1665242663497" duration="98000" />
+      <workItem from="1665242780628" duration="272000" />
     </task>
     <servers />
   </component>
